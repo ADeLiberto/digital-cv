@@ -1,37 +1,170 @@
-## Welcome to GitHub Pages
+# Amanda N. DeLiberto
 
-You can use the [editor on GitHub](https://github.com/ADeLiberto/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Address: 4600 Rickenbacker Cswy, Miami, FL 33149
+Email: [amanda.deliberto@rsmas.miami.edu](mailto:amanda.deliberto@rsmas.miami.edu)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Current Position
 
-### Markdown
+ *Ph.D. Candidate,* Marine Biology and Ecology, University of Miami
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
 
-```markdown
-Syntax highlighted code block
+*Ph.D. (Expected, 2023)*, Marine Biology and Ecology
+Rosenstiel School of Marine & Atmospheric Science (RSMAS),
+University of Miami, Miami, FL
 
-# Header 1
-## Header 2
-### Header 3
+Advisors: Douglass L. Crawford and Marjorie F. Oleksiak
+Thesis: Characterizing molecular drivers of adaptive temperature  response in *Fundulus heteroclitus* populations
 
-- Bulleted
-- List
+*B.S., (2016)*, Biology and Marine Biology Honors, *Summa Cum Laude,*
+University of New Haven, West Haven, CT
 
-1. Numbered
-2. List
+Advisor: Amy L. Carlile
+Honors Thesis: Physiological acclimation of intertidal macroalga, *Chondrus crispus*, under thermal stress
 
-**Bold** and _Italic_ and `Code` text
+## Research Experience
 
-[Link](url) and ![Image](src)
-```
+Chemical Biology Research Specialist; Kleiner Laboratory (2016-2018)
+Princeton University, Princeton, NJ
+• Examined the role of chemical RNA (epitranscriptomic) modifications using novel photo-crosslinking proteomic methods
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Algal Phylogenetics Laboratory Assistant; Carlile Laboratory (2014-2016)
+University of New Haven, West Haven, CT
+• Utilized molecular methods for barcoding Bahamian algal species and assisted with general laboratory maintenance
 
-### Jekyll Themes
+NSF Research Experience for Undergraduates (REU) Fellow; Capone Laboratory (2015)
+University of Southern California, Wrigley Institute for Environmental Studies, CA
+• Examined. Nitrogen fixation associated with invasive algal species, Sargassum
+horneri
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ADeLiberto/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Relevant Coursework:
+University of Miami Graduate Courses: 
+- Bioinformatics
+- Statistics for Marine Scientists
+- Population Genetics and Genomics
+- Practical Computing for Biologists
+- Biochemical Adaptations
 
-### Support or Contact
+University of Washington Summer in Statistical Genetics Modules: 
+- Statistical Genetics, 
+- GWAS and Association Mapping
+- Gene Expression Profiling
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Relevant Skills
+### Molecular biology
+- NGS library preparation
+- nucleic acid extraction (RNA, DNA)
+- mammalian cell culture
+- cloning
+- recombinant protein expression and purification
+
+### Coding and Bioinformatics
+Languages: 
+- R
+- Python
+- Unix
+Next generation sequencing analysis: low-coverage whole-genome sequencing, exomic sequencing, transcriptomic 
+
+## Awards and Scholarships
+*Graduate and Post-undergraduate:*
+2021, David Rowland Research Fellowship Grant
+2020, UW SISG Summer in Statistical Genetics Scholar Grant
+2019-2020, Teaching Assistant Excellence Award
+2018, University of Miami Graduate Fellowship
+2017, NSF Graduate Research Fellowship Program Honorable Mention
+2017, Princeton University Chemistry Department Best Poster Presentation
+*Undergraduate:*
+2016, University of New Haven (UNH) Excellence in Marine Biology
+2016, UNH College of Arts & Science, Undergraduate Research Award
+2016, UNH Herbert F. Wright Biology & Environmental Science Award 2016
+2015-2016, NSF ASLO Multicultural Program Award
+2012-2016, UNH Alumni Association Scholarship
+2012-2016, UNH Presidential Scholarship
+2012-2016, UNH SAT Writing Award
+
+## Teaching and Outreach
+*Guest Lecturer*; Introductory Python, Practical Computing for Biologists (Fall 2021)
+• University of Miami, Key Biscayne, FL
+• Taught 2 lectures (5 hours total) to graduate students, introducing them to basic python
+coding and useful plotting and skills for biological data analysis
+
+*Teaching Assistant*; Saltwater Semester Conservation Genomics (Fall 2021)
+• University of Miami, Key Biscayne, FL.
+• Led laboratory exercises and lectured on basic principles in genomics centered around
+basic molecular biology bench techniques and next-generation sequencing library
+preparation
+
+*Teaching Assistant*; Introduction to Marine Biology (Fall 2019)
+• University of Miami, Coral Gables, FL.
+• Assisted students with laboratory exercises, grading and provided feedback on reports,
+prepared, and led two course lectures
+
+*Environmental Education Instructor*; (Jan-July 2018)
+• Meadowlands Environment Center, Lyndhurst, NJ
+• Instructed students (K-12) in classroom and field activities related to biology and
+environmental science
+
+*Teaching Assistant*; Marine Botany and Algal Research Methods (Fall 2015 and Spring 2016)
+• University of New Haven, West Haven, CT
+• Assisted students with laboratory exercises and provided guidance with writing lab
+reports
+
+*Marine Science Camp Counselor*; (May-Aug 2013)
+• Schooner Sailing and Marine Science Camp, New Haven, CT
+• Led children (ages -7) in marine science activities, games, and guided explorations of
+surrounding marine habitats
+
+## Academic Service and Mentoring
+*Graduate Student Representative*: Marine Biology and Ecology Department (2019-2021)
+• Served as a liaison for the student body to faculty members in the department
+• Organized and compiled student seminar feedback evaluations
+• Initiated and organized student participation in faculty hiring committees to diversify
+faculty
+
+*Undergraduate Student Mentoring*
+Rebecca VanArnam 2018-2020
+Effects of mitochondrial haplotype on critical thermal maximum under hypoxic and normoxic
+conditions in the common killifish, Fundulus heteroclitus (Honors Senior Thesis)
+
+Joseph Recker 2019-2021
+Basic laboratory techniques and molecular biology skills (Independent research course)
+
+Carlo Soriano 2020-Present
+Gene expression differences in cardiac physiology after substrate metabolic measurements
+(Senior Thesis)
+
+## Publications
+
+Drown, M.K., DeLiberto, A.N., 
+
+Sequencing bait: Nuclear and mitogenome assembly of an abundant coastal tropical and subtropical fish, Atherinomorus stipes, Genome Biology and Evolution (*In review).*
+Drown, M.K., DeLiberto, A.N., Ehrlich, M.A., Crawford, D.L., & Oleksiak, M.F. (2021).
+Interindividual variation in metabolic and thermal tolerance traits from populations subjected to
+recent anthropogenic heating. Royal Society Open Science.
+Drown MK, DeLiberto AN, Crawford DL, Oleksiak MF. 2020 An Innovative Setup for High-
+Throughput Respirometry of Small Aquatic Animals. Frontiers in Marine Science, 7(871)
+Arguello AE, DeLiberto AN, Kleiner RE. 2017. An RNA chemical proteomics approach reveals
+the N6-Methyladenosine (m6A)-regulated protein-RNA interactome. Journal of the American
+Chemical Society. 139(4)
+
+PROFESSIONL PRESENTATIONS:
+DeLiberto AN, Oleksiak MF, Crawford DL. (Poster). Extended Exome Capture: An efficient
+sequencing method to target expressed regulatory regions. April 2021. Graduate Research
+Symposium, University of Miami, Coral Gables, FL (virtual).
+DeLiberto AN, Oleksiak MF, Crawford DL. (Poster). Examining thermally adaptive differences
+without demographic interference. July 2019. Gordon Research Conference, Ecological and
+Evolutionary Genomics. Manchester, NH.
+DeLiberto AN, Arguello AE, Kleiner RE. (Poster). A UV Photo-crosslinking approach for
+identifying novel m6A-mediated protein interactions. August 2017. Princeton Chemistry
+Amanda N. DeLiberto 2022
+4
+Departmental Retreat, Princeton University, Princeton, NJ.
+DeLiberto AN, Carlile AL. The role of DNA methylation in temperature acclimation of
+Chondrus crispus. (Poster). April 2016. Northeast Algal Society (NEAS) Annual Meeting,
+Westfield University, Westfield, MA
+DeLiberto AN, Morando M, Capone DG. Nitrogen fixation associated with the invasive algal
+species, Sargassum horneri. (Poster). February 2016. Association for the Sciences of Limnology
+and Oceanography (ASLO), Ocean Sciences Meeting, New Orleans, LA
+DeLiberto AN, Morando M, Capone DG. Nitrogen fixation associate with Sargassum horneri.
+September 2015. Henry Voegelli Seminar Series, University of New Haven, West Haven, CT.
