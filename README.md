@@ -1,6 +1,6 @@
 # Amanda N. DeLiberto
 
-Address: 4600 Rickenbacker Cswy, Miami, FL 33149
+Address: 4600 Rickenbacker Cswy, Miami, FL 33149  
 Email: [amanda.deliberto@rsmas.miami.edu](mailto:amanda.deliberto@rsmas.miami.edu)
 
 ## Current Position
@@ -64,7 +64,8 @@ Languages:
 - R
 - Python
 - Unix
-Next generation sequencing analysis: low-coverage whole-genome sequencing, exomic sequencing, transcriptomic 
+Next generation sequencing analysis: low-coverage whole-genome sequencing, exomic sequencing, transcriptomic
+High performance remote computing
 
 ## Awards and Scholarships
 *Graduate and Post-undergraduate:*
@@ -136,19 +137,23 @@ Gene expression differences in cardiac physiology after substrate metabolic meas
 
 ## Publications
 
-Drown, M.K., DeLiberto, A.N., 
+DeLiberto, A.N., Drown, M.K., Oleksiak, M.F., Crawford, D.L. (2022) Physio paperr
 
+
+Drown, M.K., DeLiberto, A.N., 
 Sequencing bait: Nuclear and mitogenome assembly of an abundant coastal tropical and subtropical fish, Atherinomorus stipes, Genome Biology and Evolution (*In review).*
-Drown, M.K., DeLiberto, A.N., Ehrlich, M.A., Crawford, D.L., & Oleksiak, M.F. (2021).
-Interindividual variation in metabolic and thermal tolerance traits from populations subjected to
-recent anthropogenic heating. Royal Society Open Science.
-Drown MK, DeLiberto AN, Crawford DL, Oleksiak MF. 2020 An Innovative Setup for High-
-Throughput Respirometry of Small Aquatic Animals. Frontiers in Marine Science, 7(871)
+
+Drown, M.K., DeLiberto, A.N., Ehrlich, M.A., Crawford, D.L., & Oleksiak, M.F. (2021). Interindividual variation in metabolic and thermal tolerance traits from populations subjected to recent anthropogenic heating. Royal Society Open Science.
+
+DeLiberto, A.N., Drown, M.K., Oleksiak, M.F., Crawford, D.L. (2021) Cardiac met paper
+
+Drown MK, DeLiberto AN, Crawford DL, Oleksiak MF. 2020 An Innovative Setup for High-Throughput Respirometry of Small Aquatic Animals. Frontiers in Marine Science, 7(871)
+
 Arguello AE, DeLiberto AN, Kleiner RE. 2017. An RNA chemical proteomics approach reveals
 the N6-Methyladenosine (m6A)-regulated protein-RNA interactome. Journal of the American
 Chemical Society. 139(4)
 
-PROFESSIONL PRESENTATIONS:
+## Professional Presentations
 DeLiberto AN, Oleksiak MF, Crawford DL. (Poster). Extended Exome Capture: An efficient
 sequencing method to target expressed regulatory regions. April 2021. Graduate Research
 Symposium, University of Miami, Coral Gables, FL (virtual).
@@ -157,8 +162,7 @@ without demographic interference. July 2019. Gordon Research Conference, Ecologi
 Evolutionary Genomics. Manchester, NH.
 DeLiberto AN, Arguello AE, Kleiner RE. (Poster). A UV Photo-crosslinking approach for
 identifying novel m6A-mediated protein interactions. August 2017. Princeton Chemistry
-Amanda N. DeLiberto 2022
-4
+
 Departmental Retreat, Princeton University, Princeton, NJ.
 DeLiberto AN, Carlile AL. The role of DNA methylation in temperature acclimation of
 Chondrus crispus. (Poster). April 2016. Northeast Algal Society (NEAS) Annual Meeting,
