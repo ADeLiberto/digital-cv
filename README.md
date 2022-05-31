@@ -1,5 +1,4 @@
-# Amanda N. DeLiberto
-
+## Contact
 Address: 4600 Rickenbacker Cswy, Miami, FL 33149  
 Email: [amanda.deliberto@rsmas.miami.edu](mailto:amanda.deliberto@rsmas.miami.edu)
 
