@@ -1,6 +1,6 @@
 # Amanda N. DeLiberto
 
-_ Ph.D. Candidate studying Marine Genomics at the University of Miami_ <br>
+*Ph.D. Candidate studying Marine Genomics at the University of Miami*
 
 [Email](mailto:amanda.deliberto@rsmas.miami.edu) / [Lab Website](https://marine-genomics.rsmas.miami.edu/) / [LinkedIn](https://www.linkedin.com/in/amanda-deliberto-205b5462/) / [GitHub](https://github.com/ADeLiberto/) / [Twitter](https://twitter.com/AmandaDeLiberto/)
  
