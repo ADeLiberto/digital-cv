@@ -1,10 +1,10 @@
-## Contact
-Address: 4600 Rickenbacker Cswy, Miami, FL 33149  
-Email: [amanda.deliberto@rsmas.miami.edu](mailto:amanda.deliberto@rsmas.miami.edu)
+# Amanda N. DeLiberto
 
-## Current Position
+_ Ph.D. Candidate studying Marine Genomics at the University of Miami_ <br>
 
- *Ph.D. Candidate,* Marine Biology and Ecology, University of Miami
+[Email](mailto:amanda.deliberto@rsmas.miami.edu) / [Lab Website](https://marine-genomics.rsmas.miami.edu/) / [LinkedIn](https://www.linkedin.com/in/amanda-deliberto-205b5462/) / [GitHub](https://github.com/ADeLiberto/) / [Twitter](https://twitter.com/AmandaDeLiberto/)
+ 
+Email: (mailto:amanda.deliberto@rsmas.miami.edu)
 
 ## Education
 
@@ -62,7 +62,7 @@ University of Washington Summer in Statistical Genetics Modules:
 Languages: 
 - R
 - Python
-- Unix
+- Unix  
 Next generation sequencing analysis: low-coverage whole-genome sequencing, exomic sequencing, transcriptomic
 High performance remote computing
 
