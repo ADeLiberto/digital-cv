@@ -62,90 +62,66 @@ University of Washington Summer in Statistical Genetics Modules:
 ## Awards and Scholarships
 
 *Graduate and Post-undergraduate:*
-
 2021, David Rowland Research Fellowship Grant
-
 2020, UW SISG Summer in Statistical Genetics Scholar Grant
-
 2019-2020, Teaching Assistant Excellence Award
-
 2018, University of Miami Graduate Fellowship
-
 2017, NSF Graduate Research Fellowship Program Honorable Mention
-
 2017, Princeton University Chemistry Department Best Poster Presentation
 
 *Undergraduate:*
-
 2016, University of New Haven (UNH) Excellence in Marine Biology
-
 2016, UNH College of Arts & Science, Undergraduate Research Award
-
 2016, UNH Herbert F. Wright Biology & Environmental Science Award 2016
-
 2015-2016, NSF ASLO Multicultural Program Award
-
 2012-2016, UNH Alumni Association Scholarship
-
 2012-2016, UNH Presidential Scholarship
-
 2012-2016, UNH SAT Writing Award
 
 ## Teaching and Outreach
 
 *Guest Lecturer*; Introductory Python, Practical Computing for Biologists (Fall 2021), University of Miami, Key Biscayne, FL 
-
 - Taught 2 lectures (5 hours total) to graduate students, introducing them to basic python
 coding and useful plotting and skills for biological data analysis
 
 *Teaching Assistant*; Saltwater Semester Conservation Genomics (Fall 2021), University of Miami, Key Biscayne, FL  
-
 - Led laboratory exercises and lectured on basic principles in genomics centered around
 basic molecular biology bench techniques and next-generation sequencing library
 preparation
 
 *Teaching Assistant*; Introduction to Marine Biology (Fall 2019), University of Miami, Coral Gables, FL.
-
 - Assisted students with laboratory exercises, grading and provided feedback on reports,
 prepared, and led two course lectures
 
 *Environmental Education Instructor*; (Jan-July 2018), Meadowlands Environment Center, Lyndhurst, NJ
-
 - Instructed students (K-12) in classroom and field activities related to biology and
 environmental science
 
 *Teaching Assistant*; Marine Botany and Algal Research Methods (Fall 2015 and Spring 2016), University of New Haven, West Haven, CT
-
 - Assisted students with laboratory exercises and provided guidance with writing lab
 reports
 
 *Marine Science Camp Counselor*; (May-Aug 2013), Schooner Sailing and Marine Science Camp, New Haven, CT 
-
 - Led children (ages -7) in marine science activities, games, and guided explorations of
 surrounding marine habitats
 
 ## Academic Service and Mentoring
 
 *Graduate Student Representative*: Marine Biology and Ecology Department (2019-2021)  
-
 - Served as a liaison for the student body to faculty members in the department
 - Organized and compiled student seminar feedback evaluations
 - Initiated and organized student participation in faculty hiring committees to diversify
 faculty
 
 *Undergraduate Student Mentoring*
-
 Carlo Soriano 2020-Present
-
 - Gene expression differences in cardiac physiology after substrate metabolic measurements
 (Senior Thesis)
 
 Joseph Recker 2019-2021
-
 - Basic laboratory techniques and molecular biology skills (Independent research course)
 
 Rebecca VanArnam 2018-2020
-
 - Effects of mitochondrial haplotype on critical thermal maximum under hypoxic and normoxic
 conditions in the common killifish*, Fundulus heteroclitus* (Honors Senior Thesis)
 
@@ -161,9 +137,7 @@ DeLiberto, AN, Drown, MK, Oleksiak, MF, Crawford, DL (2020) Measuring complex ph
 
 Drown MK, DeLiberto AN, Crawford DL, Oleksiak MF. (2020) An Innovative Setup for High-Throughput Respirometry of Small Aquatic Animals. Frontiers in Marine Science, 7(871).
 
-Arguello AE, DeLiberto AN, Kleiner RE. (2017). An RNA chemical proteomics approach reveals
-the N6-Methyladenosine (m6A)-regulated protein-RNA interactome. Journal of the American
-Chemical Society. 139(4).
+Arguello AE, DeLiberto AN, Kleiner RE. (2017). An RNA chemical proteomics approach reveals the N6-Methyladenosine (m6A)-regulated protein-RNA interactome. Journal of the American Chemical Society. 139(4).
 
 ## Professional Presentations
 
