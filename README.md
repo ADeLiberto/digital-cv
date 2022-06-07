@@ -1,5 +1,3 @@
-# 
-
 # Amanda N. DeLiberto
 
 *Ph.D. Candidate studying Marine Genomics at the University of Miami*
