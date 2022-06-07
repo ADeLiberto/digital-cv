@@ -9,15 +9,13 @@
 *Ph.D. (Expected, 2023)*, Marine Biology and Ecology
 Rosenstiel School of Marine & Atmospheric Science (RSMAS),
 University of Miami, Miami, FL
-
-Advisors: Douglass L. Crawford and Marjorie F. Oleksiak
-Thesis: Characterizing molecular drivers of adaptive temperature  response in *Fundulus heteroclitus* populations
+  Advisors: Douglass L. Crawford and Marjorie F. Oleksiak
+  Thesis: Characterizing molecular drivers of adaptive temperature  response in *Fundulus heteroclitus* populations
 
 *B.S., (2016)*, Biology and Marine Biology Honors, *Summa Cum Laude,*
 University of New Haven, West Haven, CT
-
-Advisor: Amy L. Carlile
-Honors Thesis: Physiological acclimation of intertidal macroalga, *Chondrus crispus*, under thermal stress
+  Advisor: Amy L. Carlile
+  Honors Thesis: Physiological acclimation of intertidal macroalga, *Chondrus crispus*, under thermal stress
 
 ## Research Experience
 
@@ -36,7 +34,6 @@ Honors Thesis: Physiological acclimation of intertidal macroalga, *Chondrus cris
 ## Relevant Coursework:
 
 University of Miami Graduate Courses:
-
 - Bioinformatics
 - Statistics for Marine Scientists
 - Population Genetics and Genomics
@@ -44,7 +41,6 @@ University of Miami Graduate Courses:
 - Biochemical Adaptations
 
 University of Washington Summer in Statistical Genetics Modules:
-
 - Statistical Genetics
 - GWAS and Association Mapping
 - Gene Expression Profiling
@@ -52,7 +48,6 @@ University of Washington Summer in Statistical Genetics Modules:
 ## Relevant Skills
 
 ### Molecular biology
-
 - Next Generation Sequencing library preparation
 - Nucleic acid extraction (RNA, DNA)
 - Mammalian cell culture
@@ -60,7 +55,6 @@ University of Washington Summer in Statistical Genetics Modules:
 - General molecular biology techniques (i.e., PCR, cloning, buffer preparation)
 
 ### Coding and Bioinformatics
-
 - Languages: R, python
 - Next generation sequencing analysis: low-coverage whole-genome sequencing, exome sequencing, transcriptomics
 - High performance remote computing
