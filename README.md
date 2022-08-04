@@ -2,6 +2,8 @@
 
 *Ph.D. Candidate studying Marine Genomics at the University of Miami*
 
+I am interested in understanding the underlying genetic architectture of complex traits, paritcularly those involved with temperature adaptation
+
 [Email](mailto:amanda.deliberto@rsmas.miami.edu) / [Lab Website](https://marine-genomics.rsmas.miami.edu/) / [LinkedIn](https://www.linkedin.com/in/amanda-deliberto-205b5462/) / [GitHub](https://github.com/ADeLiberto/) / [Twitter](https://twitter.com/AmandaDeLiberto/)
 
 ## Education
@@ -10,13 +12,14 @@
 Rosenstiel School of Marine & Atmospheric Science (RSMAS),
 University of Miami, Miami, FL
   Advisors: Douglass L. Crawford and Marjorie F. Oleksiak
-  Thesis: Characterizing molecular drivers of adaptive temperature  response in *Fundulus heteroclitus* populations
+  Thesis: Characterizing molecular drivers of adaptive temperature response in *Fundulus heteroclitus* populations
 
 *B.S., (2016)*, Biology and Marine Biology Honors, *Summa Cum Laude,*
 University of New Haven, West Haven, CT
   Advisor: Amy L. Carlile
   Honors Thesis: Physiological acclimation of intertidal macroalga, *Chondrus crispus*, under thermal stress
 
+ 
 ## Research Experience
 
 **Chemical Biology Research Specialist**; Kleiner Laboratory (2016-2018)
@@ -30,7 +33,8 @@ University of New Haven, West Haven, CT
 **NSF Research Experience for Undergraduates (REU) Fellow**; Capone Laboratory (2015)
 *University of Southern California*, Wrigley Institute for Environmental Studies, CA
 • Examined. Nitrogen fixation associated with invasive algal species, *Sargassum horneri*
-
+ 
+ 
 ## Relevant Coursework:
 
 University of Miami Graduate Courses:
@@ -45,23 +49,26 @@ University of Washington Summer in Statistical Genetics Modules:
 - GWAS and Association Mapping
 - Gene Expression Profiling
 
+ 
 ## Relevant Skills
 
 ### Molecular biology
 - Next Generation Sequencing library preparation
 - Nucleic acid extraction (RNA, DNA)
-- Mammalian cell culture
 - Recombinant protein expression and purification
 - General molecular biology techniques (i.e., PCR, cloning, buffer preparation)
+- Mammalian cell culture
 
 ### Coding and Bioinformatics
 - Languages: R, python
 - Next generation sequencing analysis: low-coverage whole-genome sequencing, exome sequencing, transcriptomics
 - High performance remote computing
 
+ 
 ## Awards and Scholarships
 
 *Graduate and Post-undergraduate:*
+2022, Departmental Seminar Presentation Award, *third place*
 2021, David Rowland Research Fellowship Grant
 2020, UW SISG Summer in Statistical Genetics Scholar Grant
 2019-2020, Teaching Assistant Excellence Award
@@ -105,6 +112,7 @@ reports
 - Led children (ages -7) in marine science activities, games, and guided explorations of
 surrounding marine habitats
 
+ 
 ## Academic Service and Mentoring
 
 *Graduate Student Representative*: Marine Biology and Ecology Department (2019-2021)  
@@ -114,50 +122,45 @@ surrounding marine habitats
 faculty
 
 *Undergraduate Student Mentoring*
+John Proefrock 2021-Present
+- Identifying genomic signatures of growth in Olive Flounder using (Senior Thesis)
+
 Carlo Soriano 2020-Present
-- Gene expression differences in cardiac physiology after substrate metabolic measurements
-(Senior Thesis)
+- Gene expression differences in cardiac physiology after substrate metabolic measurements (Senior Thesis)
 
 Joseph Recker 2019-2021
 - Basic laboratory techniques and molecular biology skills (Independent research course)
 
 Rebecca VanArnam 2018-2020
-- Effects of mitochondrial haplotype on critical thermal maximum under hypoxic and normoxic
-conditions in the common killifish*, Fundulus heteroclitus* (Honors Senior Thesis)
+- Effects of mitochondrial haplotype on critical thermal maximum under hypoxic and normoxic conditions in the common killifish*, Fundulus heteroclitus* (Honors Senior Thesis)
 
+ 
 ## Publications
 
-DeLiberto, AN, Drown, M.K., Ehrlich, M.A., Oleksiak, M.F., Crawford, D.L. (*in prep*). To rise to temperature: Variation in temperature effects within and among populations.
+__DeLiberto, AN__, Drown, MK, Ehrlich, MA, Oleksiak, MF, Crawford, DL. (*under review*). Rise to temperature: Variation in thermal sensitivty within and among populations. Journal of Experimental Biology.
 
-Drown, MK, DeLiberto, AN, Flack, N, Doyle, M, Westover, A, Proefrock, J, Heilshorn, S, D’Alessandro, E, Crawford, DL, Faulk, C, Oleksiak, MF. (*In review).* Sequencing bait: Nuclear and mitogenome assembly of an abundant coastal tropical and subtropical fish, *Atherinomorus stipes*, Genome Biology and Evolution.
+Drown, MK, __DeLiberto, AN__, Flack, N, Doyle, M, Westover, A, Proefrock, J, Heilshorn, S, D’Alessandro, E, Crawford, DL, Faulk, C, Oleksiak, MF. (2022) Sequencing bait: Nuclear and mitogenome assembly of an abundant coastal tropical and subtropical fish, *Atherinomorus stipes*, Genome Biology and Evolution.
 
-Drown, MK, DeLiberto, AN, Ehrlich, MA, Crawford, DL, & Oleksiak, MF. (2021). Interindividual variation in metabolic and thermal tolerance traits from populations subjected to recent anthropogenic heating. Royal Society Open Science. 
+Drown, MK, __DeLiberto, AN__, Ehrlich, MA, Crawford, DL, & Oleksiak, MF. (2021). Interindividual variation in metabolic and thermal tolerance traits from populations subjected to recent anthropogenic heating. Royal Society Open Science. 
 
-DeLiberto, AN, Drown, MK, Oleksiak, MF, Crawford, DL (2020) Measuring complex phenotypes: A flexible high-throughput design for micro-respirometry. bioRxiv. 
+__DeLiberto, AN__, Drown, MK, Oleksiak, MF, Crawford, DL (2020) Measuring complex phenotypes: A flexible high-throughput design for micro-respirometry. bioRxiv. 
 
-Drown MK, DeLiberto AN, Crawford DL, Oleksiak MF. (2020) An Innovative Setup for High-Throughput Respirometry of Small Aquatic Animals. Frontiers in Marine Science, 7(871).
+Drown MK, __DeLiberto AN__, Crawford DL, Oleksiak MF. (2020) An Innovative Setup for High-Throughput Respirometry of Small Aquatic Animals. Frontiers in Marine Science, 7(871).
 
-Arguello AE, DeLiberto AN, Kleiner RE. (2017). An RNA chemical proteomics approach reveals the N6-Methyladenosine (m6A)-regulated protein-RNA interactome. Journal of the American Chemical Society. 139(4).
+Arguello AE, __DeLiberto AN__, Kleiner RE. (2017). An RNA chemical proteomics approach reveals the N6-Methyladenosine (m6A)-regulated protein-RNA interactome. Journal of the American Chemical Society. 139(4).
 
+ 
 ## Professional Presentations
+DeLiberto, AN, Oleksiak MF, Crawford DL. (Poster). The genomics of highly variable physiological responses to temperature. June 2022. Population, Evolutionary, and Quantitative Genetics Conference. Pacific Grove, CA. 
 
-DeLiberto AN, Oleksiak MF, Crawford DL. (Poster). Extended Exome Capture: An efficient
-sequencing method to target expressed regulatory regions. April 2021. Graduate Research
-Symposium, University of Miami, Coral Gables, FL (virtual).
+DeLiberto AN, Oleksiak MF, Crawford DL. (Poster). Extended Exome Capture: An efficient sequencing method to target expressed regulatory regions. April 2021. Graduate Research Symposium, University of Miami, Coral Gables, FL (virtual).
 
-DeLiberto AN, Oleksiak MF, Crawford DL. (Poster). Examining thermally adaptive differences without demographic interference. July 2019. Gordon Research Conference, Ecological and
-Evolutionary Genomics. Manchester, NH.
+DeLiberto AN, Oleksiak MF, Crawford DL. (Poster). Examining thermally adaptive differences without demographic interference. July 2019. Gordon Research Conference, Ecological and Evolutionary Genomics. Manchester, NH.
 
-DeLiberto AN, Arguello AE, Kleiner RE. (Poster). A UV Photo-crosslinking approach for
-identifying novel m6A-mediated protein interactions. August 2017. Princeton Chemistry Departmental Retreat, Princeton University, Princeton, NJ.
+DeLiberto AN, Arguello AE, Kleiner RE. (Poster). A UV Photo-crosslinking approach for identifying novel m6A-mediated protein interactions. August 2017. Princeton Chemistry Departmental Retreat, Princeton University, Princeton, NJ.
 
-DeLiberto AN, Carlile AL. The role of DNA methylation in temperature acclimation of
-*Chondrus crispus*. (Poster). April 2016. Northeast Algal Society (NEAS) Annual Meeting,
-Westfield University, Westfield, MA
+DeLiberto AN, Carlile AL. The role of DNA methylation in temperature acclimation of *Chondrus crispus*. (Poster). April 2016. Northeast Algal Society (NEAS) Annual Meeting Westfield University, Westfield, MA
 
-DeLiberto AN, Morando M, Capone DG. Nitrogen fixation associated with the invasive algal
-species, *Sargassum horneri*. (Poster). February 2016. Association for the Sciences of Limnology
-and Oceanography (ASLO), Ocean Sciences Meeting, New Orleans, LA
+DeLiberto AN, Morando M, Capone DG. Nitrogen fixation associated with the invasive algal species, *Sargassum horneri*. (Poster). February 2016. Association for the Sciences of Limnology and Oceanography (ASLO), Ocean Sciences Meeting, New Orleans, LA
 
-DeLiberto AN, Morando M, Capone DG. Nitrogen fixation associate with *Sargassum horneri*.
-September 2015. Henry Voegelli Seminar Series, University of New Haven, West Haven, CT.
+DeLiberto AN, Morando M, Capone DG. Nitrogen fixation associate with *Sargassum horneri*. September 2015. Henry Voegelli Seminar Series, University of New Haven, West Haven, CT.
