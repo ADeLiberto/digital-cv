@@ -20,7 +20,7 @@ University of New Haven, West Haven, CT
   Honors Thesis: Physiological acclimation of intertidal macroalga, *Chondrus crispus*, under thermal stress
 
  
-## Research Experience
+## Prior Research Experience
 
 **Chemical Biology Research Specialist**; Kleiner Laboratory (2016-2018)
 *Princeton University*, Princeton, NJ
