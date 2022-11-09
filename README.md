@@ -2,7 +2,7 @@
 
 *Ph.D. Candidate studying Marine Genomics at the University of Miami*
 
-I am interested in understanding the underlying genetic architectture of complex traits, paritcularly those involved with temperature adaptation
+I am interested in understanding the underlying genetic architectture of complex traits
 
 [Email](mailto:amanda.deliberto@rsmas.miami.edu) / [Lab Website](https://marine-genomics.rsmas.miami.edu/) / [LinkedIn](https://www.linkedin.com/in/amanda-deliberto-205b5462/) / [GitHub](https://github.com/ADeLiberto/) / [Twitter](https://twitter.com/AmandaDeLiberto/)
 
