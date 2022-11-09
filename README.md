@@ -8,7 +8,7 @@ I am interested in understanding the underlying genetic architectture of complex
 
 ## Education
 
-*Ph.D. (Expected, 2023)*, Marine Biology and Ecology
+*Ph.D. (Expected May 2023)*, Marine Biology and Ecology
 Rosenstiel School of Marine & Atmospheric Science (RSMAS),
 University of Miami, Miami, FL
   Advisors: Douglass L. Crawford and Marjorie F. Oleksiak
