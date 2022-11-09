@@ -123,7 +123,7 @@ faculty
 
 *Undergraduate Student Mentoring*
 John Proefrock 2021-Present
-- Identifying genomic signatures of growth in Olive Flounder using (Senior Thesis)
+- Identifying genomic signatures of sex and parentage structure in Olive Flounder using low coverage whole genome sequencing (Senior Thesis)
 
 Carlo Soriano 2020-Present
 - Gene expression differences in cardiac physiology after substrate metabolic measurements (Senior Thesis)
@@ -137,7 +137,7 @@ Rebecca VanArnam 2018-2020
  
 ## Publications
 
-__DeLiberto, AN__, Drown, MK, Ehrlich, MA, Oleksiak, MF, Crawford, DL. (*under review*). Rise to temperature: Variation in thermal sensitivty within and among populations. Journal of Experimental Biology.
+__DeLiberto, AN__, Drown, MK, Ehrlich, MA, Oleksiak, MF, Crawford, DL. (2022). Feeling the heat: Variation in thermal sensitivty within and among populations. Journal of Experimental Biology.
 
 Drown, MK, __DeLiberto, AN__, Flack, N, Doyle, M, Westover, A, Proefrock, J, Heilshorn, S, D’Alessandro, E, Crawford, DL, Faulk, C, Oleksiak, MF. (2022) Sequencing bait: Nuclear and mitogenome assembly of an abundant coastal tropical and subtropical fish, *Atherinomorus stipes*, Genome Biology and Evolution.
 
